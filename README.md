@@ -79,6 +79,8 @@ Os KPIs foram selecionados para representar os principais pilares do negócio:
 * `dashboard.pdf` → Versão para visualização
 * `dashboard.png` → Imagem do dashboard
 
+Projeto desenvolvido com base em estudos do curso de Power BI da Data Science Academy (DSA), com adaptações, análises e interpretações próprias.
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas
